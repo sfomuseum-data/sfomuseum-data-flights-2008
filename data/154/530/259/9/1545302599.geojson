@@ -1,0 +1,76 @@
+{
+  "id": 1545302599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2008-04-29~",
+    "edtf:inception": "2008-04-29T21:23:45",
+    "flysfo:airline": "",
+    "flysfo:date": "2008-04-29",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "1805",
+    "flysfo:journey": "SFO-RIV",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.896471,-117.254857,37.617990",
+    "geom:latitude": 35.7572305,
+    "geom:longitude": -119.8129,
+    "iata:airline": "",
+    "icao:aircraft": "DC94",
+    "icao:airline": "ABX",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159291245,
+    "sfomuseum:airline_id": 1159283789,
+    "sfomuseum:arrival_id": 102533771,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20080429-D-ABX-1805",
+    "sfomuseum:flight_number": [
+      "1805", 
+      "ABX1805"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      102191575, 
+      85633793, 
+      102527513, 
+      102087579, 
+      85922583, 
+      85688637, 
+      1545302599, 
+      1159396337
+    ],
+    "wof:country": "US",
+    "wof:created": 1582653535,
+    "wof:geomhash": "ab1c262cdcde68b15133eea54c0f464a",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1545302599,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1545302599,
+    "wof:lastmodified": 1582653535,
+    "wof:name": "ABX1805 (SFO-RIV)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2008",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    33.896471, 
+    -117.254857, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.254857,33.896471]],"type":"MultiPoint"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1545242017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2008-03-12T01:14:09",
+    "edtf:inception": "2008-03-12~",
+    "flysfo:airline": "YX",
+    "flysfo:date": "2008-03-12",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "YX8761",
+    "flysfo:journey": "CYEG-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-113.584752,53.308108",
+    "geom:latitude": 45.463049,
+    "geom:longitude": -117.9778475,
+    "iata:airline": "YX",
+    "icao:aircraft": "MD81",
+    "icao:airline": "MEP",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159291289,
+    "sfomuseum:airline_id": 1159284801,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102554473,
+    "sfomuseum:flight_id": "20080312-A-MEP-8761",
+    "sfomuseum:flight_number": [
+      "YX8761", 
+      "MEP8761"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      85922583, 
+      85633793, 
+      1545242017, 
+      102087579, 
+      1159396337, 
+      102191575, 
+      102527513, 
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1582652930,
+    "wof:geomhash": "5251ebd94a7bdc5872b19729ff2a2674",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1545242017,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1545242017,
+    "wof:lastmodified": 1582652930,
+    "wof:name": "MEP8761 (CYEG-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2008",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    -113.584752, 
+    53.308108
+  ],
+  "geometry": {"coordinates":[[-113.584752,53.308108],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
