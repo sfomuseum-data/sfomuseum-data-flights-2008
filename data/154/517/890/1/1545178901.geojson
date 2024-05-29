@@ -2,6 +2,10 @@
   "id": 1545178901,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-01-12",
+    "date:cessation_upper": "2008-01-12",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-01-31",
     "edtf:cessation": "2008-01-12T23:35:38",
     "edtf:inception": "2008-01-12~",
     "flysfo:airline": "MG",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530559,
     "sfomuseum:flight_id": "20080112-A-CCP-2026",
     "sfomuseum:flight_number": [
-      "MG2026", 
+      "MG2026",
       "CCP2026"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102527513, 
-      1545178901
+      102087579,
+      85922583,
+      1159396337,
+      102191575,
+      85633793,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582652344,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545178901,
-    "wof:lastmodified": 1582652344,
+    "wof:lastmodified": 1717010369,
     "wof:name": "CCP2026 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -121.589912, 
+    -122.370943,
+    37.61799,
+    -121.589912,
     38.685533
   ],
   "geometry": {"coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]],"type":"MultiPoint"}

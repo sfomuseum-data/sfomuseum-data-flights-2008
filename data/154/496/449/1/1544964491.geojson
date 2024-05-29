@@ -2,6 +2,10 @@
   "id": 1544964491,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-02-05",
+    "date:cessation_upper": "2008-02-05",
+    "date:inception_lower": "2008-02-01",
+    "date:inception_upper": "2008-02-29",
     "edtf:cessation": "2008-02-05T10:27:02",
     "edtf:inception": "2008-02-05~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20080205-A-VRD-774",
     "sfomuseum:flight_number": [
-      "VX774", 
+      "VX774",
       "VRD774"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      85633793, 
-      85688637, 
-      1544964491
+      102087579,
+      102527513,
+      85922583,
+      1159396337,
+      102191575,
+      85633793,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582652576,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544964491,
-    "wof:lastmodified": 1582652576,
+    "wof:lastmodified": 1717010361,
     "wof:name": "VRD774 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545380571,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-06-01",
+    "date:cessation_upper": "2008-06-30",
+    "date:inception_lower": "2008-06-23",
+    "date:inception_upper": "2008-06-23",
     "edtf:cessation": "2008-06-23~",
     "edtf:inception": "2008-06-23T22:16:41",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080623-D-VRD-1777",
     "sfomuseum:flight_number": [
-      "VX1777", 
+      "VX1777",
       "VRD1777"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85688637, 
-      102191575, 
-      1545380571, 
-      1159396337, 
-      85633793, 
+      102527513,
+      102087579,
+      85688637,
+      102191575,
+      1159396337,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545380571,
-    "wof:lastmodified": 1582654305,
+    "wof:lastmodified": 1717010380,
     "wof:name": "VRD1777 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

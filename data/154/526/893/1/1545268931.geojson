@@ -2,6 +2,10 @@
   "id": 1545268931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-04-05",
+    "date:cessation_upper": "2008-04-05",
+    "date:inception_lower": "2008-04-01",
+    "date:inception_upper": "2008-04-30",
     "edtf:cessation": "2008-04-05T09:20:59",
     "edtf:inception": "2008-04-05~",
     "flysfo:airline": "CX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531979,
     "sfomuseum:flight_id": "20080405-A-CPA-086",
     "sfomuseum:flight_number": [
-      "CX086", 
+      "CX086",
       "CPA086"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545268931, 
-      85633793, 
-      102527513, 
-      85688637, 
-      102087579, 
-      85922583, 
-      1159396337, 
+      85633793,
+      102527513,
+      85688637,
+      102087579,
+      85922583,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545268931,
-    "wof:lastmodified": 1582653199,
+    "wof:lastmodified": 1717010373,
     "wof:name": "CPA086 (ANC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401, 
-    37.61799, 
-    -122.370943, 
+    -149.968401,
+    37.61799,
+    -122.370943,
     61.173606
   ],
   "geometry": {"coordinates":[[-149.968401,61.173606],[-122.370943,37.61799]],"type":"MultiPoint"}

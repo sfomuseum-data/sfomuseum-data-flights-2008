@@ -2,6 +2,10 @@
   "id": 1544997151,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-06",
+    "date:cessation_upper": "2008-10-06",
+    "date:inception_lower": "2008-10-01",
+    "date:inception_upper": "2008-10-31",
     "edtf:cessation": "2008-10-06T22:29:19",
     "edtf:inception": "2008-10-06~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20081006-A-AAL-1446",
     "sfomuseum:flight_number": [
-      "AA1446", 
+      "AA1446",
       "AAL1446"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      1544997151, 
-      85688637, 
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      1159396337,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544997151,
-    "wof:lastmodified": 1582655848,
+    "wof:lastmodified": 1717010363,
     "wof:name": "AAL1446 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

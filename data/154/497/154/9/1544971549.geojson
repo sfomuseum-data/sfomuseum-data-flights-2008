@@ -2,6 +2,10 @@
   "id": 1544971549,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-04-01",
+    "date:cessation_upper": "2008-04-30",
+    "date:inception_lower": "2008-04-09",
+    "date:inception_upper": "2008-04-09",
     "edtf:cessation": "2008-04-09~",
     "edtf:inception": "2008-04-09T15:30:06",
     "flysfo:airline": "NW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080409-D-NWA-221",
     "sfomuseum:flight_number": [
-      "NW221", 
+      "NW221",
       "NWA221"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1544971549, 
-      1159396337, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
+      1159396337,
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544971549,
-    "wof:lastmodified": 1582653263,
+    "wof:lastmodified": 1717010359,
     "wof:name": "NWA221 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

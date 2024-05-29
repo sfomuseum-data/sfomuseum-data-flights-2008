@@ -2,6 +2,10 @@
   "id": 1561362131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-12-28",
+    "date:cessation_upper": "2008-12-28",
+    "date:inception_lower": "2008-12-01",
+    "date:inception_upper": "2008-12-31",
     "edtf:cessation": "2008-12-28T14:45:31",
     "edtf:inception": "2008-12-28~",
     "flysfo:airline": "AC",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102555091,
     "sfomuseum:flight_id": "20081228-A-ACA-755",
     "sfomuseum:flight_number": [
-      "AC755", 
+      "AC755",
       "ACA755"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      102087579, 
-      1561362131, 
-      1159396337, 
-      102191575, 
-      85922583, 
+      85633793,
+      102527513,
+      102087579,
+      1159396337,
+      102191575,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561362131,
-    "wof:lastmodified": 1582656947,
+    "wof:lastmodified": 1717010402,
     "wof:name": "ACA755 (YYZ-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -79.628342, 
+    -122.370943,
+    37.61799,
+    -79.628342,
     43.676352
   ],
   "geometry": {"coordinates":[[-79.628342,43.676352],[-122.370943,37.61799]],"type":"MultiPoint"}

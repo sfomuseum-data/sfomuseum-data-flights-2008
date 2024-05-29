@@ -2,6 +2,10 @@
   "id": 1545367579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-06-15",
+    "date:cessation_upper": "2008-06-15",
+    "date:inception_lower": "2008-06-01",
+    "date:inception_upper": "2008-06-30",
     "edtf:cessation": "2008-06-15T06:26:48",
     "edtf:inception": "2008-06-15~",
     "flysfo:airline": "KZ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541685,
     "sfomuseum:flight_id": "20080615-A-NCA-108",
     "sfomuseum:flight_number": [
-      "KZ108", 
+      "KZ108",
       "NCA108"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545367579, 
-      85922583, 
-      102527513, 
-      102087579, 
-      1159396337, 
-      85633793, 
-      85688637, 
+      85922583,
+      102527513,
+      102087579,
+      1159396337,
+      85633793,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545367579,
-    "wof:lastmodified": 1582654175,
+    "wof:lastmodified": 1717010380,
     "wof:name": "NCA108 (RJAA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}

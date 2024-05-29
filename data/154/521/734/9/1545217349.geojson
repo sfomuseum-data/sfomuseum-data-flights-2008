@@ -2,6 +2,10 @@
   "id": 1545217349,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-02-15",
+    "date:cessation_upper": "2008-02-15",
+    "date:inception_lower": "2008-02-01",
+    "date:inception_upper": "2008-02-29",
     "edtf:cessation": "2008-02-15T18:57:39",
     "edtf:inception": "2008-02-15~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20080215-A-UAL-1525",
     "sfomuseum:flight_number": [
-      "UA1525", 
+      "UA1525",
       "UAL1525"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545217349, 
-      85633793, 
-      1159396337, 
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
+      85633793,
+      1159396337,
+      85688637,
+      102527513,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545217349,
-    "wof:lastmodified": 1582652698,
+    "wof:lastmodified": 1717010371,
     "wof:name": "UAL1525 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

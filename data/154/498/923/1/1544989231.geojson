@@ -2,6 +2,10 @@
   "id": 1544989231,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-10",
+    "date:cessation_upper": "2008-08-10",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-10T20:47:27",
     "edtf:inception": "2008-08-10~",
     "flysfo:airline": "NW",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20080810-A-NWA-122",
     "sfomuseum:flight_number": [
-      "NW122", 
+      "NW122",
       "NWA122"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1159396337, 
-      102191575, 
-      1544989231
+      102527513,
+      85922583,
+      85633793,
+      102087579,
+      85688637,
+      1159396337,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582655055,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544989231,
-    "wof:lastmodified": 1582655055,
+    "wof:lastmodified": 1717010365,
     "wof:name": "NWA122 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

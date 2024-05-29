@@ -2,6 +2,10 @@
   "id": 1545242017,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-03-12",
+    "date:cessation_upper": "2008-03-12",
+    "date:inception_lower": "2008-03-01",
+    "date:inception_upper": "2008-03-31",
     "edtf:cessation": "2008-03-12T01:14:09",
     "edtf:inception": "2008-03-12~",
     "flysfo:airline": "YX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102554473,
     "sfomuseum:flight_id": "20080312-A-MEP-8761",
     "sfomuseum:flight_number": [
-      "YX8761", 
+      "YX8761",
       "MEP8761"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1545242017, 
-      102087579, 
-      1159396337, 
-      102191575, 
-      102527513, 
+      85922583,
+      85633793,
+      102087579,
+      1159396337,
+      102191575,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545242017,
-    "wof:lastmodified": 1582652930,
+    "wof:lastmodified": 1717010367,
     "wof:name": "MEP8761 (CYEG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -113.584752, 
+    -122.370943,
+    37.61799,
+    -113.584752,
     53.308108
   ],
   "geometry": {"coordinates":[[-113.584752,53.308108],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545540233,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-15",
+    "date:cessation_upper": "2008-10-15",
+    "date:inception_lower": "2008-10-01",
+    "date:inception_upper": "2008-10-31",
     "edtf:cessation": "2008-10-15T20:59:24",
     "edtf:inception": "2008-10-15~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102525961,
     "sfomuseum:flight_id": "20081015-A-AAL-1593",
     "sfomuseum:flight_number": [
-      "AA1593", 
+      "AA1593",
       "AAL1593"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      102527513, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      1545540233
+      102087579,
+      102191575,
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582655980,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545540233,
-    "wof:lastmodified": 1582655980,
+    "wof:lastmodified": 1717010391,
     "wof:name": "AAL1593 (STL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -90.367632, 
+    -122.370943,
+    37.61799,
+    -90.367632,
     38.743872
   ],
   "geometry": {"coordinates":[[-90.367632,38.743872],[-122.370943,37.61799]],"type":"MultiPoint"}

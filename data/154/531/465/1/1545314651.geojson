@@ -2,6 +2,10 @@
   "id": 1545314651,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-05-08",
+    "date:cessation_upper": "2008-05-08",
+    "date:inception_lower": "2008-05-01",
+    "date:inception_upper": "2008-05-31",
     "edtf:cessation": "2008-05-08T14:44:57",
     "edtf:inception": "2008-05-08~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20080508-A-UAL-9955",
     "sfomuseum:flight_number": [
-      "UA9955", 
+      "UA9955",
       "UAL9955"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
-      1545314651
+      85922583,
+      85688637,
+      1159396337,
+      102527513,
+      102087579,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582653651,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545314651,
-    "wof:lastmodified": 1582653651,
+    "wof:lastmodified": 1717010376,
     "wof:name": "UAL9955 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545540121,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-15",
+    "date:cessation_upper": "2008-10-15",
+    "date:inception_lower": "2008-10-01",
+    "date:inception_upper": "2008-10-31",
     "edtf:cessation": "2008-10-15T19:20:28",
     "edtf:inception": "2008-10-15~",
     "flysfo:airline": "NW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20081015-A-NWA-357",
     "sfomuseum:flight_number": [
-      "NW357", 
+      "NW357",
       "NWA357"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1545540121, 
-      85922583, 
-      102191575, 
-      1159396337, 
-      102527513, 
-      102087579, 
+      85633793,
+      85922583,
+      102191575,
+      1159396337,
+      102527513,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545540121,
-    "wof:lastmodified": 1582655979,
+    "wof:lastmodified": 1717010391,
     "wof:name": "NWA357 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

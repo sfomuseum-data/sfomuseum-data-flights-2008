@@ -2,6 +2,10 @@
   "id": 1545328743,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-05-18",
+    "date:cessation_upper": "2008-05-18",
+    "date:inception_lower": "2008-05-01",
+    "date:inception_upper": "2008-05-31",
     "edtf:cessation": "2008-05-18T19:03:30",
     "edtf:inception": "2008-05-18~",
     "flysfo:airline": "",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20080518-A-ABX-1776",
     "sfomuseum:flight_number": [
-      "1776", 
+      "1776",
       "ABX1776"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545328743, 
-      1159396337, 
-      102527513, 
-      85633793, 
-      85922583, 
-      102191575, 
-      85688637, 
+      1159396337,
+      102527513,
+      85633793,
+      85922583,
+      102191575,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545328743,
-    "wof:lastmodified": 1582653794,
+    "wof:lastmodified": 1717010380,
     "wof:name": "ABX1776 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

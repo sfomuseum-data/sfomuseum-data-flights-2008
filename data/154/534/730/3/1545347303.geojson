@@ -2,6 +2,10 @@
   "id": 1545347303,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-05-31",
+    "date:cessation_upper": "2008-05-31",
+    "date:inception_lower": "2008-05-01",
+    "date:inception_upper": "2008-05-31",
     "edtf:cessation": "2008-05-31T22:49:58",
     "edtf:inception": "2008-05-31~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20080531-A-ASA-245",
     "sfomuseum:flight_number": [
-      "AS245", 
+      "AS245",
       "ASA245"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      85633793, 
-      1545347303, 
-      1159396337, 
-      102191575, 
-      85922583, 
+      85688637,
+      102527513,
+      85633793,
+      1159396337,
+      102191575,
+      85922583,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545347303,
-    "wof:lastmodified": 1582653980,
+    "wof:lastmodified": 1717010380,
     "wof:name": "ASA245 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

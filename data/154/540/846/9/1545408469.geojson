@@ -2,6 +2,10 @@
   "id": 1545408469,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-07-12",
+    "date:cessation_upper": "2008-07-12",
+    "date:inception_lower": "2008-07-01",
+    "date:inception_upper": "2008-07-31",
     "edtf:cessation": "2008-07-12T19:48:47",
     "edtf:inception": "2008-07-12~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20080712-A-VRD-462",
     "sfomuseum:flight_number": [
-      "VX462", 
+      "VX462",
       "VRD462"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      102087579, 
-      1159396337, 
-      85688637, 
-      85633793, 
-      102527513, 
-      1545408469
+      85922583,
+      102191575,
+      102087579,
+      1159396337,
+      85688637,
+      85633793,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582654580,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545408469,
-    "wof:lastmodified": 1582654580,
+    "wof:lastmodified": 1717010388,
     "wof:name": "VRD462 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

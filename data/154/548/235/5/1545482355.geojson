@@ -2,6 +2,10 @@
   "id": 1545482355,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-31",
+    "date:cessation_upper": "2008-08-31",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-31T19:36:14",
     "edtf:inception": "2008-08-31~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20080831-A-VRD-1733",
     "sfomuseum:flight_number": [
-      "VX1733", 
+      "VX1733",
       "VRD1733"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      85633793, 
-      102527513, 
-      102191575, 
-      1545482355
+      102087579,
+      85922583,
+      85688637,
+      1159396337,
+      85633793,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582655379,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545482355,
-    "wof:lastmodified": 1582655379,
+    "wof:lastmodified": 1717010390,
     "wof:name": "VRD1733 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

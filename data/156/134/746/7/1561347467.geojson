@@ -2,6 +2,10 @@
   "id": 1561347467,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-12-16",
+    "date:cessation_upper": "2008-12-16",
+    "date:inception_lower": "2008-12-01",
+    "date:inception_upper": "2008-12-31",
     "edtf:cessation": "2008-12-16T00:10:16",
     "edtf:inception": "2008-12-16~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530559,
     "sfomuseum:flight_id": "20081216-A-SWA-8505",
     "sfomuseum:flight_number": [
-      "WN8505", 
+      "WN8505",
       "SWA8505"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      102087579, 
-      1561347467, 
-      85922583, 
-      85688637, 
-      1159396337, 
+      102527513,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561347467,
-    "wof:lastmodified": 1582656788,
+    "wof:lastmodified": 1717010363,
     "wof:name": "SWA8505 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -121.589912, 
+    -122.370943,
+    37.61799,
+    -121.589912,
     38.685533
   ],
   "geometry": {"coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]],"type":"MultiPoint"}

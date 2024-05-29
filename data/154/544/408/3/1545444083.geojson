@@ -2,6 +2,10 @@
   "id": 1545444083,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-05",
+    "date:cessation_upper": "2008-08-05",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-05T19:29:41",
     "edtf:inception": "2008-08-05~",
     "flysfo:airline": "US",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20080805-A-USA-705",
     "sfomuseum:flight_number": [
-      "US705", 
+      "US705",
       "USA705"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102087579, 
-      85922583, 
-      1545444083
+      1159396337,
+      102191575,
+      85633793,
+      85688637,
+      102527513,
+      102087579,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582654968,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545444083,
-    "wof:lastmodified": 1582654968,
+    "wof:lastmodified": 1717010386,
     "wof:name": "USA705 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

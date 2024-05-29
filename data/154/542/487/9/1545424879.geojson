@@ -2,6 +2,10 @@
   "id": 1545424879,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-07-23",
+    "date:cessation_upper": "2008-07-23",
+    "date:inception_lower": "2008-07-01",
+    "date:inception_upper": "2008-07-31",
     "edtf:cessation": "2008-07-23T20:15:54",
     "edtf:inception": "2008-07-23~",
     "flysfo:airline": "US",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528181,
     "sfomuseum:flight_id": "20080723-A-USA-1260",
     "sfomuseum:flight_number": [
-      "US1260", 
+      "US1260",
       "USA1260"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      1159396337, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1545424879
+      102191575,
+      85922583,
+      1159396337,
+      102527513,
+      85633793,
+      102087579,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582654762,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545424879,
-    "wof:lastmodified": 1582654762,
+    "wof:lastmodified": 1717010385,
     "wof:name": "USA1260 (PIT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -80.259551, 
+    -122.370943,
+    37.61799,
+    -80.259551,
     40.492624
   ],
   "geometry": {"coordinates":[[-80.259551,40.492624],[-122.370943,37.61799]],"type":"MultiPoint"}

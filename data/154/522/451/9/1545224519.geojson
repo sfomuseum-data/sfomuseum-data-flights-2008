@@ -2,6 +2,10 @@
   "id": 1545224519,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-02-01",
+    "date:cessation_upper": "2008-02-29",
+    "date:inception_lower": "2008-02-21",
+    "date:inception_upper": "2008-02-21",
     "edtf:cessation": "2008-02-21~",
     "edtf:inception": "2008-02-21T12:46:04",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080221-D-ASA-690",
     "sfomuseum:flight_number": [
-      "AS690", 
+      "AS690",
       "ASA690"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102087579, 
-      102191575, 
-      1545224519
+      85922583,
+      85633793,
+      85688637,
+      1159396337,
+      102527513,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582652764,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545224519,
-    "wof:lastmodified": 1582652764,
+    "wof:lastmodified": 1717010368,
     "wof:name": "ASA690 (SFO-PSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-116.506042,33.824619]],"type":"MultiPoint"}

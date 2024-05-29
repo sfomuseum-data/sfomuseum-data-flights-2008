@@ -2,6 +2,10 @@
   "id": 1545550645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-23",
+    "date:cessation_upper": "2008-10-23",
+    "date:inception_lower": "2008-10-01",
+    "date:inception_upper": "2008-10-31",
     "edtf:cessation": "2008-10-23T20:09:51",
     "edtf:inception": "2008-10-23~",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20081023-A-AWE-1167",
     "sfomuseum:flight_number": [
-      "HP1167", 
+      "HP1167",
       "AWE1167"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545550645, 
-      102191575, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
+      102191575,
+      102527513,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545550645,
-    "wof:lastmodified": 1582656089,
+    "wof:lastmodified": 1717010392,
     "wof:name": "AWE1167 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

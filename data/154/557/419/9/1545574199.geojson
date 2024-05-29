@@ -2,6 +2,10 @@
   "id": 1545574199,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-11-01",
+    "date:cessation_upper": "2008-11-30",
+    "date:inception_lower": "2008-11-11",
+    "date:inception_upper": "2008-11-11",
     "edtf:cessation": "2008-11-11~",
     "edtf:inception": "2008-11-11T11:41:21",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20081111-D-UAL-872",
     "sfomuseum:flight_number": [
-      "UA872", 
+      "UA872",
       "UAL872"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1159396337, 
-      102087579, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1545574199
+      102527513,
+      102191575,
+      1159396337,
+      102087579,
+      85922583,
+      85688637,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582656327,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545574199,
-    "wof:lastmodified": 1582656327,
+    "wof:lastmodified": 1717010400,
     "wof:name": "UAL872 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

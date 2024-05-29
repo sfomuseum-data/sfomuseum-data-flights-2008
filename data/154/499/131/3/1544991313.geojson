@@ -2,6 +2,10 @@
   "id": 1544991313,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-23",
+    "date:cessation_upper": "2008-08-23",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-23T16:51:18",
     "edtf:inception": "2008-08-23~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533927,
     "sfomuseum:flight_id": "20080823-A-UAL-1273",
     "sfomuseum:flight_number": [
-      "UA1273", 
+      "UA1273",
       "UAL1273"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1544991313, 
-      102527513, 
-      85633793, 
-      1159396337, 
-      102087579, 
-      102191575, 
+      85922583,
+      102527513,
+      85633793,
+      1159396337,
+      102087579,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544991313,
-    "wof:lastmodified": 1582655262,
+    "wof:lastmodified": 1717010358,
     "wof:name": "UAL1273 (EUG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.21303, 
-    37.61799, 
-    -122.370943, 
+    -123.21303,
+    37.61799,
+    -122.370943,
     44.119058
   ],
   "geometry": {"coordinates":[[-123.21303,44.119058],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545186673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-01-20",
+    "date:cessation_upper": "2008-01-20",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-01-31",
     "edtf:cessation": "2008-01-20T10:39:55",
     "edtf:inception": "2008-01-20~",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20080120-A-USA-1701",
     "sfomuseum:flight_number": [
-      "US1701", 
+      "US1701",
       "USA1701"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1545186673, 
-      102191575, 
+      102087579,
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      102191575,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545186673,
-    "wof:lastmodified": 1582652415,
+    "wof:lastmodified": 1717010369,
     "wof:name": "USA1701 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

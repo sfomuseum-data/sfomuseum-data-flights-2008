@@ -2,6 +2,10 @@
   "id": 1545205919,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-02-01",
+    "date:cessation_upper": "2008-02-29",
+    "date:inception_lower": "2008-02-06",
+    "date:inception_upper": "2008-02-06",
     "edtf:cessation": "2008-02-06~",
     "edtf:inception": "2008-02-06T16:29:29",
     "flysfo:airline": "SY",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080206-D-SCX-396",
     "sfomuseum:flight_number": [
-      "SY396", 
+      "SY396",
       "SCX396"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      1545205919
+      102527513,
+      85922583,
+      85688637,
+      85633793,
+      1159396337,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582652591,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545205919,
-    "wof:lastmodified": 1582652591,
+    "wof:lastmodified": 1717010369,
     "wof:name": "SCX396 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

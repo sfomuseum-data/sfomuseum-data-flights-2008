@@ -2,6 +2,10 @@
   "id": 1545408619,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-07-12",
+    "date:cessation_upper": "2008-07-12",
+    "date:inception_lower": "2008-07-01",
+    "date:inception_upper": "2008-07-31",
     "edtf:cessation": "2008-07-12T21:55:14",
     "edtf:inception": "2008-07-12~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532929,
     "sfomuseum:flight_id": "20080712-A-UAL-40",
     "sfomuseum:flight_number": [
-      "UA40", 
+      "UA40",
       "UAL40"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      1159396337, 
-      102191575, 
-      85922583, 
-      102527513, 
-      1545408619
+      85633793,
+      102087579,
+      85688637,
+      1159396337,
+      102191575,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582654582,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545408619,
-    "wof:lastmodified": 1582654582,
+    "wof:lastmodified": 1717010388,
     "wof:name": "UAL40 (OGG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-156.437877,20.894952],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1561339403,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-12-10",
+    "date:cessation_upper": "2008-12-10",
+    "date:inception_lower": "2008-12-01",
+    "date:inception_upper": "2008-12-31",
     "edtf:cessation": "2008-12-10T13:59:24",
     "edtf:inception": "2008-12-10~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530559,
     "sfomuseum:flight_id": "20081210-A-DAL-9901",
     "sfomuseum:flight_number": [
-      "DL9901", 
+      "DL9901",
       "DAL9901"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1561339403, 
-      85922583, 
-      102527513, 
-      85633793, 
-      102191575, 
-      102087579, 
+      85688637,
+      85922583,
+      102527513,
+      85633793,
+      102191575,
+      102087579,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561339403,
-    "wof:lastmodified": 1582656705,
+    "wof:lastmodified": 1717010363,
     "wof:name": "DAL9901 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -121.589912, 
+    -122.370943,
+    37.61799,
+    -121.589912,
     38.685533
   ],
   "geometry": {"coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]],"type":"MultiPoint"}

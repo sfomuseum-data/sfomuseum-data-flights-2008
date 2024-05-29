@@ -2,6 +2,10 @@
   "id": 1545218431,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-02-01",
+    "date:cessation_upper": "2008-02-29",
+    "date:inception_lower": "2008-02-16",
+    "date:inception_upper": "2008-02-16",
     "edtf:cessation": "2008-02-16~",
     "edtf:inception": "2008-02-16T15:44:29",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080216-D-DAL-1794",
     "sfomuseum:flight_number": [
-      "DL1794", 
+      "DL1794",
       "DAL1794"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1545218431, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
-      1159396337, 
+      85633793,
+      85922583,
+      85688637,
+      102191575,
+      102527513,
+      1159396337,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545218431,
-    "wof:lastmodified": 1582652708,
+    "wof:lastmodified": 1717010371,
     "wof:name": "DAL1794 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}

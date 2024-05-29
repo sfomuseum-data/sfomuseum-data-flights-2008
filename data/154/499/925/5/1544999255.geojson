@@ -2,6 +2,10 @@
   "id": 1544999255,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-23",
+    "date:cessation_upper": "2008-10-23",
+    "date:inception_lower": "2008-10-01",
+    "date:inception_upper": "2008-10-31",
     "edtf:cessation": "2008-10-23T08:07:57",
     "edtf:inception": "2008-10-23~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20081023-A-UAL-276",
     "sfomuseum:flight_number": [
-      "UA276", 
+      "UA276",
       "UAL276"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1544999255, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      85633793, 
+      85922583,
+      85688637,
+      1159396337,
+      102527513,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544999255,
-    "wof:lastmodified": 1582656080,
+    "wof:lastmodified": 1717010365,
     "wof:name": "UAL276 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

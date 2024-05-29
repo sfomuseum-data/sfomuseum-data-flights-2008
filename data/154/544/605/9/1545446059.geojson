@@ -2,6 +2,10 @@
   "id": 1545446059,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-01",
+    "date:cessation_upper": "2008-08-31",
+    "date:inception_lower": "2008-08-07",
+    "date:inception_upper": "2008-08-07",
     "edtf:cessation": "2008-08-07~",
     "edtf:inception": "2008-08-07T07:21:54",
     "flysfo:airline": "US",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080807-D-USA-704",
     "sfomuseum:flight_number": [
-      "US704", 
+      "US704",
       "USA704"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396337, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102087579, 
-      102191575, 
-      1545446059
+      85922583,
+      1159396337,
+      85633793,
+      85688637,
+      102527513,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582654993,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545446059,
-    "wof:lastmodified": 1582654993,
+    "wof:lastmodified": 1717010387,
     "wof:name": "USA704 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}

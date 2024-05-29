@@ -2,6 +2,10 @@
   "id": 1545194249,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-01-27",
+    "date:cessation_upper": "2008-01-27",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-01-31",
     "edtf:cessation": "2008-01-27T22:21:35",
     "edtf:inception": "2008-01-27~",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20080127-A-USA-915",
     "sfomuseum:flight_number": [
-      "US915", 
+      "US915",
       "USA915"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545194249, 
-      85688637, 
-      85633793, 
-      102527513, 
-      1159396337, 
-      102191575, 
-      102087579, 
+      85688637,
+      85633793,
+      102527513,
+      1159396337,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545194249,
-    "wof:lastmodified": 1582652483,
+    "wof:lastmodified": 1717010367,
     "wof:name": "USA915 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

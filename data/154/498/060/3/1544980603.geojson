@@ -2,6 +2,10 @@
   "id": 1544980603,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-06-13",
+    "date:cessation_upper": "2008-06-13",
+    "date:inception_lower": "2008-06-01",
+    "date:inception_upper": "2008-06-30",
     "edtf:cessation": "2008-06-13T13:48:26",
     "edtf:inception": "2008-06-13~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20080613-A-UAL-556",
     "sfomuseum:flight_number": [
-      "UA556", 
+      "UA556",
       "UAL556"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      1544980603
+      85688637,
+      102087579,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582654153,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544980603,
-    "wof:lastmodified": 1582654153,
+    "wof:lastmodified": 1717010358,
     "wof:name": "UAL556 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

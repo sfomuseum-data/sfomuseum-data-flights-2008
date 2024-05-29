@@ -2,6 +2,10 @@
   "id": 1545599965,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-12-01",
+    "date:cessation_upper": "2008-12-31",
+    "date:inception_lower": "2008-12-02",
+    "date:inception_upper": "2008-12-02",
     "edtf:cessation": "2008-12-02~",
     "edtf:inception": "2008-12-02T05:55:01",
     "flysfo:airline": "",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20081202-D-ABX-1902",
     "sfomuseum:flight_number": [
-      "1902", 
+      "1902",
       "ABX1902"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1159396337, 
-      102527513, 
-      1545599965
+      85922583,
+      85688637,
+      102191575,
+      85633793,
+      102087579,
+      1159396337,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582656594,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545599965,
-    "wof:lastmodified": 1582656594,
+    "wof:lastmodified": 1717010404,
     "wof:name": "ABX1902 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}

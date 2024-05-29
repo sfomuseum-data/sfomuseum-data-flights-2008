@@ -2,6 +2,10 @@
   "id": 1545279159,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-04-12",
+    "date:cessation_upper": "2008-04-12",
+    "date:inception_lower": "2008-04-01",
+    "date:inception_upper": "2008-04-30",
     "edtf:cessation": "2008-04-12T17:24:38",
     "edtf:inception": "2008-04-12~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20080412-A-AAL-1662",
     "sfomuseum:flight_number": [
-      "AA1662", 
+      "AA1662",
       "AAL1662"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      102087579, 
-      102191575, 
-      85633793, 
-      1545279159, 
-      85922583, 
+      85688637,
+      1159396337,
+      102087579,
+      102191575,
+      85633793,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545279159,
-    "wof:lastmodified": 1582653306,
+    "wof:lastmodified": 1717010377,
     "wof:name": "AAL1662 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

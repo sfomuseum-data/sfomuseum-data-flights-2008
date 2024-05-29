@@ -2,6 +2,10 @@
   "id": 1545345031,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-05-30",
+    "date:cessation_upper": "2008-05-30",
+    "date:inception_lower": "2008-05-01",
+    "date:inception_upper": "2008-05-31",
     "edtf:cessation": "2008-05-30T11:11:48",
     "edtf:inception": "2008-05-30~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20080530-A-UAL-91",
     "sfomuseum:flight_number": [
-      "UA91", 
+      "UA91",
       "UAL91"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1159396337, 
-      102087579, 
-      102527513, 
-      1545345031
+      85922583,
+      85688637,
+      102191575,
+      85633793,
+      1159396337,
+      102087579,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582653959,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545345031,
-    "wof:lastmodified": 1582653959,
+    "wof:lastmodified": 1717010378,
     "wof:name": "UAL91 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

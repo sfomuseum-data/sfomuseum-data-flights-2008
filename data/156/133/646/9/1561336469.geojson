@@ -2,6 +2,10 @@
   "id": 1561336469,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-12-08",
+    "date:cessation_upper": "2008-12-08",
+    "date:inception_lower": "2008-12-01",
+    "date:inception_upper": "2008-12-31",
     "edtf:cessation": "2008-12-08T09:52:12",
     "edtf:inception": "2008-12-08~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20081208-A-UAL-171",
     "sfomuseum:flight_number": [
-      "UA171", 
+      "UA171",
       "UAL171"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      85688637, 
-      1561336469
+      85633793,
+      102087579,
+      85922583,
+      1159396337,
+      102527513,
+      102191575,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582656675,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561336469,
-    "wof:lastmodified": 1582656675,
+    "wof:lastmodified": 1717010361,
     "wof:name": "UAL171 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

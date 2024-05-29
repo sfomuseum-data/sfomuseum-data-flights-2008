@@ -2,6 +2,10 @@
   "id": 1545463409,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-18",
+    "date:cessation_upper": "2008-08-18",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-18T14:37:09",
     "edtf:inception": "2008-08-18~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20080818-A-UAL-63A",
     "sfomuseum:flight_number": [
-      "UA63A", 
+      "UA63A",
       "UAL63A"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      85633793, 
-      1545463409
+      102087579,
+      102191575,
+      85922583,
+      85688637,
+      1159396337,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582655181,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545463409,
-    "wof:lastmodified": 1582655181,
+    "wof:lastmodified": 1717010385,
     "wof:name": "UAL63A (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

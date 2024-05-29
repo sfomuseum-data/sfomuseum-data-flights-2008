@@ -2,6 +2,10 @@
   "id": 1545437009,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-01",
+    "date:cessation_upper": "2008-08-01",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-01T04:31:16",
     "edtf:inception": "2008-08-01~",
     "flysfo:airline": "",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533771,
     "sfomuseum:flight_id": "20080801-A-ABX-1905",
     "sfomuseum:flight_number": [
-      "1905", 
+      "1905",
       "ABX1905"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1545437009, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396337, 
-      102527513, 
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      1159396337,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545437009,
-    "wof:lastmodified": 1582654890,
+    "wof:lastmodified": 1717010387,
     "wof:name": "ABX1905 (RIV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.896471, 
-    -117.254857, 
+    -122.370943,
+    33.896471,
+    -117.254857,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.254857,33.896471],[-122.370943,37.61799]],"type":"MultiPoint"}

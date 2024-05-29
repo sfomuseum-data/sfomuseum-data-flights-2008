@@ -2,6 +2,10 @@
   "id": 1545195805,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-01-29",
+    "date:cessation_upper": "2008-01-29",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-01-31",
     "edtf:cessation": "2008-01-29T11:09:41",
     "edtf:inception": "2008-01-29~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20080129-A-VRD-466",
     "sfomuseum:flight_number": [
-      "VX466", 
+      "VX466",
       "VRD466"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1545195805, 
-      102527513, 
-      102191575, 
+      85922583,
+      85688637,
+      85633793,
+      102087579,
+      102527513,
+      102191575,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545195805,
-    "wof:lastmodified": 1582652497,
+    "wof:lastmodified": 1717010368,
     "wof:name": "VRD466 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

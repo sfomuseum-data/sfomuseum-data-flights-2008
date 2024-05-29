@@ -2,6 +2,10 @@
   "id": 1545510171,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-09-01",
+    "date:cessation_upper": "2008-09-30",
+    "date:inception_lower": "2008-09-22",
+    "date:inception_upper": "2008-09-22",
     "edtf:cessation": "2008-09-22~",
     "edtf:inception": "2008-09-22T15:05:15",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080922-D-UAL-714",
     "sfomuseum:flight_number": [
-      "UA714", 
+      "UA714",
       "UAL714"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545510171, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1159396337, 
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      85633793,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545510171,
-    "wof:lastmodified": 1582655654,
+    "wof:lastmodified": 1717010390,
     "wof:name": "UAL714 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

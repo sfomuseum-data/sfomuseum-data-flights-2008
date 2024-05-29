@@ -2,6 +2,10 @@
   "id": 1545367081,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-06-14",
+    "date:cessation_upper": "2008-06-14",
+    "date:inception_lower": "2008-06-01",
+    "date:inception_upper": "2008-06-30",
     "edtf:cessation": "2008-06-14T17:09:47",
     "edtf:inception": "2008-06-14~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20080614-A-UAL-1586",
     "sfomuseum:flight_number": [
-      "UA1586", 
+      "UA1586",
       "UAL1586"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      1545367081, 
-      102087579, 
-      102527513, 
-      85922583, 
-      85688637, 
+      1159396337,
+      85633793,
+      102087579,
+      102527513,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545367081,
-    "wof:lastmodified": 1582654170,
+    "wof:lastmodified": 1717010380,
     "wof:name": "UAL1586 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545469553,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-22",
+    "date:cessation_upper": "2008-08-22",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-22T16:44:18",
     "edtf:inception": "2008-08-22~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20080822-A-DAL-1179",
     "sfomuseum:flight_number": [
-      "DL1179", 
+      "DL1179",
       "DAL1179"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1545469553, 
-      85688637, 
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545469553,
-    "wof:lastmodified": 1582655248,
+    "wof:lastmodified": 1717010391,
     "wof:name": "DAL1179 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

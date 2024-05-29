@@ -2,6 +2,10 @@
   "id": 1561340267,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-12-01",
+    "date:cessation_upper": "2008-12-31",
+    "date:inception_lower": "2008-12-11",
+    "date:inception_upper": "2008-12-11",
     "edtf:cessation": "2008-12-11~",
     "edtf:inception": "2008-12-11T09:33:19",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20081211-D-DAL-150",
     "sfomuseum:flight_number": [
-      "DL150", 
+      "DL150",
       "DAL150"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      102527513, 
-      102087579, 
-      1561340267, 
-      85688637, 
+      102191575,
+      85633793,
+      85922583,
+      102527513,
+      102087579,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561340267,
-    "wof:lastmodified": 1582656715,
+    "wof:lastmodified": 1717010358,
     "wof:name": "DAL150 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

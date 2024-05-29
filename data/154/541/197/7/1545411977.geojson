@@ -2,6 +2,10 @@
   "id": 1545411977,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-07-01",
+    "date:cessation_upper": "2008-07-31",
+    "date:inception_lower": "2008-07-15",
+    "date:inception_upper": "2008-07-15",
     "edtf:cessation": "2008-07-15~",
     "edtf:inception": "2008-07-15T09:01:49",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080715-D-AAL-39",
     "sfomuseum:flight_number": [
-      "AA39", 
+      "AA39",
       "AAL39"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      1545411977
+      85633793,
+      102087579,
+      102527513,
+      102191575,
+      85922583,
+      85688637,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582654615,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545411977,
-    "wof:lastmodified": 1582654615,
+    "wof:lastmodified": 1717010382,
     "wof:name": "AAL39 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

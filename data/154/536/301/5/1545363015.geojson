@@ -2,6 +2,10 @@
   "id": 1545363015,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-06-01",
+    "date:cessation_upper": "2008-06-30",
+    "date:inception_lower": "2008-06-11",
+    "date:inception_upper": "2008-06-11",
     "edtf:cessation": "2008-06-11~",
     "edtf:inception": "2008-06-11T23:21:25",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080611-D-UAL-785",
     "sfomuseum:flight_number": [
-      "UA785", 
+      "UA785",
       "UAL785"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159396337, 
-      102527513, 
-      85688637, 
-      102087579, 
-      85922583, 
-      102191575, 
-      1545363015
+      85633793,
+      1159396337,
+      102527513,
+      85688637,
+      102087579,
+      85922583,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582654130,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545363015,
-    "wof:lastmodified": 1582654130,
+    "wof:lastmodified": 1717010376,
     "wof:name": "UAL785 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

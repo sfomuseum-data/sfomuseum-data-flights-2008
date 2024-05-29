@@ -2,6 +2,10 @@
   "id": 1545492947,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-09-01",
+    "date:cessation_upper": "2008-09-30",
+    "date:inception_lower": "2008-09-08",
+    "date:inception_upper": "2008-09-08",
     "edtf:cessation": "2008-09-08~",
     "edtf:inception": "2008-09-08T22:10:12",
     "flysfo:airline": "US",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080908-D-USA-659",
     "sfomuseum:flight_number": [
-      "US659", 
+      "US659",
       "USA659"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      1159396337, 
-      85633793, 
-      85922583, 
-      102527513, 
-      102191575, 
-      1545492947
+      85688637,
+      102087579,
+      1159396337,
+      85633793,
+      85922583,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582655486,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545492947,
-    "wof:lastmodified": 1582655486,
+    "wof:lastmodified": 1717010391,
     "wof:name": "USA659 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

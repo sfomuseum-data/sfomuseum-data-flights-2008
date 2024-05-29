@@ -2,6 +2,10 @@
   "id": 1545600235,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-12-02",
+    "date:cessation_upper": "2008-12-02",
+    "date:inception_lower": "2008-12-01",
+    "date:inception_upper": "2008-12-31",
     "edtf:cessation": "2008-12-02T10:04:50",
     "edtf:inception": "2008-12-02~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20081202-A-AAL-1341",
     "sfomuseum:flight_number": [
-      "AA1341", 
+      "AA1341",
       "AAL1341"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159396337, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1545600235, 
-      85922583, 
+      102087579,
+      1159396337,
+      85688637,
+      102527513,
+      102191575,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545600235,
-    "wof:lastmodified": 1582656597,
+    "wof:lastmodified": 1717010400,
     "wof:name": "AAL1341 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

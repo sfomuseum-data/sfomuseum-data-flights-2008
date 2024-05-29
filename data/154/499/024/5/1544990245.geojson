@@ -2,6 +2,10 @@
   "id": 1544990245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-17",
+    "date:cessation_upper": "2008-08-17",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-17T13:32:22",
     "edtf:inception": "2008-08-17~",
     "flysfo:airline": "YX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530849,
     "sfomuseum:flight_id": "20080817-A-MEP-923",
     "sfomuseum:flight_number": [
-      "YX923", 
+      "YX923",
       "MEP923"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1544990245, 
-      1159396337, 
+      102087579,
+      85688637,
+      85922583,
+      102527513,
+      85633793,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544990245,
-    "wof:lastmodified": 1582655163,
+    "wof:lastmodified": 1717010402,
     "wof:name": "MEP923 (MKE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.896339, 
+    -122.370943,
+    37.61799,
+    -87.896339,
     42.949572
   ],
   "geometry": {"coordinates":[[-87.896339,42.949572],[-122.370943,37.61799]],"type":"MultiPoint"}

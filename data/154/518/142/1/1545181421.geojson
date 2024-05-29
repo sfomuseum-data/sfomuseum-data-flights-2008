@@ -2,6 +2,10 @@
   "id": 1545181421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-01-15",
+    "date:cessation_upper": "2008-01-15",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-01-31",
     "edtf:cessation": "2008-01-15T22:18:36",
     "edtf:inception": "2008-01-15~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536249,
     "sfomuseum:flight_id": "20080115-A-ASA-273",
     "sfomuseum:flight_number": [
-      "AS273", 
+      "AS273",
       "ASA273"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1545181421, 
-      85688637, 
+      85922583,
+      1159396337,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545181421,
-    "wof:lastmodified": 1582652367,
+    "wof:lastmodified": 1717010364,
     "wof:name": "ASA273 (ZIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    17.601389, 
-    -101.460278, 
+    -122.370943,
+    17.601389,
+    -101.460278,
     37.61799
   ],
   "geometry": {"coordinates":[[-101.460278,17.601389],[-122.370943,37.61799]],"type":"MultiPoint"}

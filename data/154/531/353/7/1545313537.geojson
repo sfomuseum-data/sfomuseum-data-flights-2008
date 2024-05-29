@@ -2,6 +2,10 @@
   "id": 1545313537,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-05-07",
+    "date:cessation_upper": "2008-05-07",
+    "date:inception_lower": "2008-05-01",
+    "date:inception_upper": "2008-05-31",
     "edtf:cessation": "2008-05-07T19:25:42",
     "edtf:inception": "2008-05-07~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530559,
     "sfomuseum:flight_id": "20080507-A-UAL-9914",
     "sfomuseum:flight_number": [
-      "UA9914", 
+      "UA9914",
       "UAL9914"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      102527513, 
-      85633793, 
-      102191575, 
-      102087579, 
-      1545313537, 
+      85688637,
+      1159396337,
+      102527513,
+      85633793,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545313537,
-    "wof:lastmodified": 1582653640,
+    "wof:lastmodified": 1717010375,
     "wof:name": "UAL9914 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -121.589912, 
+    -122.370943,
+    37.61799,
+    -121.589912,
     38.685533
   ],
   "geometry": {"coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]],"type":"MultiPoint"}

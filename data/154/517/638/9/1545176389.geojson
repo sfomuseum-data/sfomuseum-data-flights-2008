@@ -2,6 +2,10 @@
   "id": 1545176389,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-01-01",
+    "date:cessation_upper": "2008-01-31",
+    "date:inception_lower": "2008-01-11",
+    "date:inception_upper": "2008-01-11",
     "edtf:cessation": "2008-01-11~",
     "edtf:inception": "2008-01-11T13:15:53",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080111-D-ASA-208",
     "sfomuseum:flight_number": [
-      "AS208", 
+      "AS208",
       "ASA208"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545176389, 
-      85688637, 
-      85633793, 
-      102527513, 
-      85922583, 
-      102087579, 
-      102191575, 
+      85688637,
+      85633793,
+      102527513,
+      85922583,
+      102087579,
+      102191575,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545176389,
-    "wof:lastmodified": 1582652318,
+    "wof:lastmodified": 1717010367,
     "wof:name": "ASA208 (SFO-ZIH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    17.601389, 
-    -101.460278, 
+    -122.370943,
+    17.601389,
+    -101.460278,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-101.460278,17.601389]],"type":"MultiPoint"}

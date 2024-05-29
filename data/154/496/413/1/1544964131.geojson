@@ -2,6 +2,10 @@
   "id": 1544964131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-02-01",
+    "date:cessation_upper": "2008-02-29",
+    "date:inception_lower": "2008-02-02",
+    "date:inception_upper": "2008-02-02",
     "edtf:cessation": "2008-02-02~",
     "edtf:inception": "2008-02-02T09:33:12",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080202-D-USA-1630",
     "sfomuseum:flight_number": [
-      "US1630", 
+      "US1630",
       "USA1630"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1544964131, 
-      85922583, 
+      85633793,
+      1159396337,
+      102527513,
+      102191575,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544964131,
-    "wof:lastmodified": 1582652543,
+    "wof:lastmodified": 1717010361,
     "wof:name": "USA1630 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545513355,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-09-01",
+    "date:cessation_upper": "2008-09-30",
+    "date:inception_lower": "2008-09-25",
+    "date:inception_upper": "2008-09-25",
     "edtf:cessation": "2008-09-25~",
     "edtf:inception": "2008-09-25T08:21:58",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080925-D-UAL-1136",
     "sfomuseum:flight_number": [
-      "UA1136", 
+      "UA1136",
       "UAL1136"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      85922583, 
-      1159396337, 
-      102087579, 
-      1545513355, 
-      85633793, 
+      102527513,
+      85688637,
+      85922583,
+      1159396337,
+      102087579,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545513355,
-    "wof:lastmodified": 1582655688,
+    "wof:lastmodified": 1717010393,
     "wof:name": "UAL1136 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.1792,49.19333]],"type":"MultiPoint"}

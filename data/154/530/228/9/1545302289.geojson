@@ -2,6 +2,10 @@
   "id": 1545302289,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-04-01",
+    "date:cessation_upper": "2008-04-30",
+    "date:inception_lower": "2008-04-29",
+    "date:inception_upper": "2008-04-29",
     "edtf:cessation": "2008-04-29~",
     "edtf:inception": "2008-04-29T16:49:41",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080429-D-UAL-39",
     "sfomuseum:flight_number": [
-      "UA39", 
+      "UA39",
       "UAL39"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      102527513, 
-      1545302289, 
-      102191575, 
+      85688637,
+      85633793,
+      85922583,
+      1159396337,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545302289,
-    "wof:lastmodified": 1582653532,
+    "wof:lastmodified": 1717010374,
     "wof:name": "UAL39 (SFO-OGG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-156.437877,20.894952]],"type":"MultiPoint"}

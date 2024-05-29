@@ -2,6 +2,10 @@
   "id": 1544969265,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-03-01",
+    "date:cessation_upper": "2008-03-31",
+    "date:inception_lower": "2008-03-23",
+    "date:inception_upper": "2008-03-23",
     "edtf:cessation": "2008-03-23~",
     "edtf:inception": "2008-03-23T02:02:09",
     "flysfo:airline": "CI",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080323-D-CAL-5115",
     "sfomuseum:flight_number": [
-      "CI5115", 
+      "CI5115",
       "CAL5115"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      85633793, 
-      102191575, 
-      102087579, 
-      1544969265
+      102527513,
+      85922583,
+      85688637,
+      1159396337,
+      85633793,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582653029,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544969265,
-    "wof:lastmodified": 1582653029,
+    "wof:lastmodified": 1717010365,
     "wof:name": "CAL5115 (SFO-RCTP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.078566, 
-    121.233152, 
+    -122.370943,
+    25.078566,
+    121.233152,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[121.233152,25.078566]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545539601,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-01",
+    "date:cessation_upper": "2008-10-31",
+    "date:inception_lower": "2008-10-15",
+    "date:inception_upper": "2008-10-15",
     "edtf:cessation": "2008-10-15~",
     "edtf:inception": "2008-10-15T11:58:43",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20081015-D-SWA-962",
     "sfomuseum:flight_number": [
-      "WN962", 
+      "WN962",
       "SWA962"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159396337, 
-      85922583, 
-      1545539601, 
-      102527513, 
-      102191575, 
-      85688637, 
+      85633793,
+      1159396337,
+      85922583,
+      102527513,
+      102191575,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545539601,
-    "wof:lastmodified": 1582655974,
+    "wof:lastmodified": 1717010400,
     "wof:name": "SWA962 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

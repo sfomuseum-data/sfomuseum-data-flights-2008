@@ -2,6 +2,10 @@
   "id": 1545003895,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-11-28",
+    "date:cessation_upper": "2008-11-28",
+    "date:inception_lower": "2008-11-01",
+    "date:inception_upper": "2008-11-30",
     "edtf:cessation": "2008-11-28T13:23:03",
     "edtf:inception": "2008-11-28~",
     "flysfo:airline": "NW",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20081128-A-NWA-221",
     "sfomuseum:flight_number": [
-      "NW221", 
+      "NW221",
       "NWA221"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159396337, 
-      85688637, 
-      102527513, 
-      1545003895
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159396337,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582656546,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545003895,
-    "wof:lastmodified": 1582656546,
+    "wof:lastmodified": 1717010361,
     "wof:name": "NWA221 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

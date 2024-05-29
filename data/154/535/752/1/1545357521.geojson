@@ -2,6 +2,10 @@
   "id": 1545357521,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-06-08",
+    "date:cessation_upper": "2008-06-08",
+    "date:inception_lower": "2008-06-01",
+    "date:inception_upper": "2008-06-30",
     "edtf:cessation": "2008-06-08T10:13:54",
     "edtf:inception": "2008-06-08~",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20080608-A-USA-1451",
     "sfomuseum:flight_number": [
-      "US1451", 
+      "US1451",
       "USA1451"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545357521, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102527513, 
-      102087579, 
-      1159396337, 
+      85688637,
+      102191575,
+      85633793,
+      102527513,
+      102087579,
+      1159396337,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545357521,
-    "wof:lastmodified": 1582654078,
+    "wof:lastmodified": 1717010380,
     "wof:name": "USA1451 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

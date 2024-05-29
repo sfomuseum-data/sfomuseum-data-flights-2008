@@ -2,6 +2,10 @@
   "id": 1545289973,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-04-20",
+    "date:cessation_upper": "2008-04-20",
+    "date:inception_lower": "2008-04-01",
+    "date:inception_upper": "2008-04-30",
     "edtf:cessation": "2008-04-20T15:54:59",
     "edtf:inception": "2008-04-20~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20080420-A-SWA-907",
     "sfomuseum:flight_number": [
-      "WN907", 
+      "WN907",
       "SWA907"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      1545289973, 
-      102527513, 
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      1159396337,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545289973,
-    "wof:lastmodified": 1582653414,
+    "wof:lastmodified": 1717010379,
     "wof:name": "SWA907 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

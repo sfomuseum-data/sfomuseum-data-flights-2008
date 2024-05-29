@@ -2,6 +2,10 @@
   "id": 1545404345,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-07-01",
+    "date:cessation_upper": "2008-07-31",
+    "date:inception_lower": "2008-07-10",
+    "date:inception_upper": "2008-07-10",
     "edtf:cessation": "2008-07-10~",
     "edtf:inception": "2008-07-10T07:09:53",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080710-D-DAL-1854",
     "sfomuseum:flight_number": [
-      "DL1854", 
+      "DL1854",
       "DAL1854"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102087579, 
-      102527513, 
-      85688637, 
-      85922583, 
-      102191575, 
-      85633793, 
-      1545404345
+      1159396337,
+      102087579,
+      102527513,
+      85688637,
+      85922583,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582654540,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545404345,
-    "wof:lastmodified": 1582654540,
+    "wof:lastmodified": 1717010384,
     "wof:name": "DAL1854 (SFO-CVG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -84.657144, 
+    -122.370943,
+    37.61799,
+    -84.657144,
     39.054422
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.657144,39.054422]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1544990687,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-20",
+    "date:cessation_upper": "2008-08-20",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-20T12:54:39",
     "edtf:inception": "2008-08-20~",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20080820-A-USA-969",
     "sfomuseum:flight_number": [
-      "US969", 
+      "US969",
       "USA969"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1544990687, 
-      85922583, 
-      102191575, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      102527513, 
+      85922583,
+      102191575,
+      85633793,
+      85688637,
+      1159396337,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544990687,
-    "wof:lastmodified": 1582655211,
+    "wof:lastmodified": 1717010358,
     "wof:name": "USA969 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

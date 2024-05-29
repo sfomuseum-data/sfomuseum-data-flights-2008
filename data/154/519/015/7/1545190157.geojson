@@ -2,6 +2,10 @@
   "id": 1545190157,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-01-23",
+    "date:cessation_upper": "2008-01-23",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-01-31",
     "edtf:cessation": "2008-01-23T17:59:40",
     "edtf:inception": "2008-01-23~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20080123-A-ASA-82",
     "sfomuseum:flight_number": [
-      "AS82", 
+      "AS82",
       "ASA82"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1545190157, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      102087579, 
-      102191575, 
+      102527513,
+      85633793,
+      85922583,
+      1159396337,
+      102087579,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545190157,
-    "wof:lastmodified": 1582652446,
+    "wof:lastmodified": 1717010363,
     "wof:name": "ASA82 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

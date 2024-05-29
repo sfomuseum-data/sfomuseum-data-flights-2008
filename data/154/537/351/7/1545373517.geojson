@@ -2,6 +2,10 @@
   "id": 1545373517,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-06-19",
+    "date:cessation_upper": "2008-06-19",
+    "date:inception_lower": "2008-06-01",
+    "date:inception_upper": "2008-06-30",
     "edtf:cessation": "2008-06-19T06:00:12",
     "edtf:inception": "2008-06-19~",
     "flysfo:airline": "",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529207,
     "sfomuseum:flight_id": "20080619-A-ABX-502",
     "sfomuseum:flight_number": [
-      "502", 
+      "502",
       "ABX502"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102527513, 
-      102087579, 
-      85688637, 
-      1159396337, 
-      1545373517, 
+      85633793,
+      85922583,
+      102527513,
+      102087579,
+      85688637,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545373517,
-    "wof:lastmodified": 1582654235,
+    "wof:lastmodified": 1717010380,
     "wof:name": "ABX502 (ILN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.78876, 
+    -122.370943,
+    37.61799,
+    -83.78876,
     39.43241
   ],
   "geometry": {"coordinates":[[-83.78876,39.43241],[-122.370943,37.61799]],"type":"MultiPoint"}

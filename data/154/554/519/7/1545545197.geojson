@@ -2,6 +2,10 @@
   "id": 1545545197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-19",
+    "date:cessation_upper": "2008-10-19",
+    "date:inception_lower": "2008-10-01",
+    "date:inception_upper": "2008-10-31",
     "edtf:cessation": "2008-10-19T17:59:05",
     "edtf:inception": "2008-10-19~",
     "flysfo:airline": "",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529207,
     "sfomuseum:flight_id": "20081019-A-ABX-1711",
     "sfomuseum:flight_number": [
-      "1711", 
+      "1711",
       "ABX1711"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      85688637, 
-      102087579, 
-      85633793, 
-      1545545197
+      85922583,
+      1159396337,
+      102527513,
+      102191575,
+      85688637,
+      102087579,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582656032,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545545197,
-    "wof:lastmodified": 1582656032,
+    "wof:lastmodified": 1717010396,
     "wof:name": "ABX1711 (ILN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.78876, 
+    -122.370943,
+    37.61799,
+    -83.78876,
     39.43241
   ],
   "geometry": {"coordinates":[[-83.78876,39.43241],[-122.370943,37.61799]],"type":"MultiPoint"}

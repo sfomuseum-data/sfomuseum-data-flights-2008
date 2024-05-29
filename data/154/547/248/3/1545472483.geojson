@@ -2,6 +2,10 @@
   "id": 1545472483,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-24",
+    "date:cessation_upper": "2008-08-24",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-24T19:43:16",
     "edtf:inception": "2008-08-24~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528187,
     "sfomuseum:flight_id": "20080824-A-DAL-33",
     "sfomuseum:flight_number": [
-      "DL33", 
+      "DL33",
       "DAL33"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      102087579, 
-      1159396337, 
-      1545472483, 
-      85922583, 
-      85688637, 
+      102527513,
+      85633793,
+      102087579,
+      1159396337,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545472483,
-    "wof:lastmodified": 1582655279,
+    "wof:lastmodified": 1717010388,
     "wof:name": "DAL33 (CVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -84.657144, 
+    -122.370943,
+    37.61799,
+    -84.657144,
     39.054422
   ],
   "geometry": {"coordinates":[[-84.657144,39.054422],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545352157,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-06-01",
+    "date:cessation_upper": "2008-06-30",
+    "date:inception_lower": "2008-06-04",
+    "date:inception_upper": "2008-06-04",
     "edtf:cessation": "2008-06-04~",
     "edtf:inception": "2008-06-04T13:40:26",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080604-D-AAL-1144",
     "sfomuseum:flight_number": [
-      "AA1144", 
+      "AA1144",
       "AAL1144"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1159396337, 
-      85633793, 
-      85922583, 
-      1545352157
+      102527513,
+      85688637,
+      102191575,
+      102087579,
+      1159396337,
+      85633793,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582654026,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545352157,
-    "wof:lastmodified": 1582654026,
+    "wof:lastmodified": 1717010376,
     "wof:name": "AAL1144 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545406963,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-07-11",
+    "date:cessation_upper": "2008-07-11",
+    "date:inception_lower": "2008-07-01",
+    "date:inception_upper": "2008-07-31",
     "edtf:cessation": "2008-07-11T19:23:34",
     "edtf:inception": "2008-07-11~",
     "flysfo:airline": "HP",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20080711-A-AWE-650",
     "sfomuseum:flight_number": [
-      "HP650", 
+      "HP650",
       "AWE650"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      102087579, 
-      1545406963
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      1159396337,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582654566,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545406963,
-    "wof:lastmodified": 1582654566,
+    "wof:lastmodified": 1717010386,
     "wof:name": "AWE650 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

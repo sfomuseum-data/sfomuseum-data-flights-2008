@@ -2,6 +2,10 @@
   "id": 1545478423,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-28",
+    "date:cessation_upper": "2008-08-28",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-28T21:01:27",
     "edtf:inception": "2008-08-28~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20080828-A-VRD-1974",
     "sfomuseum:flight_number": [
-      "VX1974", 
+      "VX1974",
       "VRD1974"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      85688637, 
-      102087579, 
-      1545478423
+      85633793,
+      102527513,
+      85922583,
+      1159396337,
+      102191575,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582655340,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545478423,
-    "wof:lastmodified": 1582655340,
+    "wof:lastmodified": 1717010394,
     "wof:name": "VRD1974 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545179995,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-01-14",
+    "date:cessation_upper": "2008-01-14",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-01-31",
     "edtf:cessation": "2008-01-14T17:37:50",
     "edtf:inception": "2008-01-14~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20080114-A-UAL-778",
     "sfomuseum:flight_number": [
-      "UA778", 
+      "UA778",
       "UAL778"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      1545179995, 
+      102527513,
+      102191575,
+      102087579,
+      85633793,
+      85688637,
+      1159396337,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545179995,
-    "wof:lastmodified": 1582652354,
+    "wof:lastmodified": 1717010370,
     "wof:name": "UAL778 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

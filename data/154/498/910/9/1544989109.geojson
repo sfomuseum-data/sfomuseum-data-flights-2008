@@ -2,6 +2,10 @@
   "id": 1544989109,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-10",
+    "date:cessation_upper": "2008-08-10",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-10T05:21:31",
     "edtf:inception": "2008-08-10~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528943,
     "sfomuseum:flight_id": "20080810-A-UAL-1402",
     "sfomuseum:flight_number": [
-      "UA1402", 
+      "UA1402",
       "UAL1402"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102191575, 
-      85633793, 
-      85688637, 
-      85922583, 
-      102087579, 
-      102527513, 
-      1544989109
+      1159396337,
+      102191575,
+      85633793,
+      85688637,
+      85922583,
+      102087579,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582655042,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544989109,
-    "wof:lastmodified": 1582655042,
+    "wof:lastmodified": 1717010365,
     "wof:name": "UAL1402 (LIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -159.347789, 
-    21.981539, 
-    -122.370943, 
+    -159.347789,
+    21.981539,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-159.347789,21.981539],[-122.370943,37.61799]],"type":"MultiPoint"}

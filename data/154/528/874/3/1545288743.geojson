@@ -2,6 +2,10 @@
   "id": 1545288743,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-04-19",
+    "date:cessation_upper": "2008-04-19",
+    "date:inception_lower": "2008-04-01",
+    "date:inception_upper": "2008-04-30",
     "edtf:cessation": "2008-04-19T16:33:17",
     "edtf:inception": "2008-04-19~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531041,
     "sfomuseum:flight_id": "20080419-A-UAL-9831",
     "sfomuseum:flight_number": [
-      "UA9831", 
+      "UA9831",
       "UAL9831"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1545288743, 
-      1159396337, 
-      102527513, 
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      1159396337,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545288743,
-    "wof:lastmodified": 1582653402,
+    "wof:lastmodified": 1717010378,
     "wof:name": "UAL9831 (OAK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.212464, 
+    -122.370943,
+    37.61799,
+    -122.212464,
     37.72131
   ],
   "geometry": {"coordinates":[[-122.212464,37.72131],[-122.370943,37.61799]],"type":"MultiPoint"}

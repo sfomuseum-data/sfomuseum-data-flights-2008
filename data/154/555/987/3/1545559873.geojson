@@ -2,6 +2,10 @@
   "id": 1545559873,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-30",
+    "date:cessation_upper": "2008-10-30",
+    "date:inception_lower": "2008-10-01",
+    "date:inception_upper": "2008-10-31",
     "edtf:cessation": "2008-10-30T21:02:51",
     "edtf:inception": "2008-10-30~",
     "flysfo:airline": "FL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526927,
     "sfomuseum:flight_id": "20081030-A-TRS-57",
     "sfomuseum:flight_number": [
-      "FL57", 
+      "FL57",
       "TRS57"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545559873, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      85922583, 
-      102191575, 
-      85633793, 
+      85688637,
+      1159396337,
+      102527513,
+      85922583,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545559873,
-    "wof:lastmodified": 1582656185,
+    "wof:lastmodified": 1717010401,
     "wof:name": "TRS57 (ATL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}

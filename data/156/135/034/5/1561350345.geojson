@@ -2,6 +2,10 @@
   "id": 1561350345,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-12-19",
+    "date:cessation_upper": "2008-12-19",
+    "date:inception_lower": "2008-12-01",
+    "date:inception_upper": "2008-12-31",
     "edtf:cessation": "2008-12-19T10:20:13",
     "edtf:inception": "2008-12-19~",
     "flysfo:airline": "EZ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541597,
     "sfomuseum:flight_id": "20081219-A-EIA-496",
     "sfomuseum:flight_number": [
-      "EZ496", 
+      "EZ496",
       "EIA496"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      102527513, 
-      102191575, 
-      1159396337, 
-      1561350345, 
-      85922583, 
+      85633793,
+      102087579,
+      102527513,
+      102191575,
+      1159396337,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561350345,
-    "wof:lastmodified": 1582656821,
+    "wof:lastmodified": 1717010358,
     "wof:name": "EIA496 (NGO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.858398, 
-    136.804993, 
+    -122.370943,
+    34.858398,
+    136.804993,
     37.61799
   ],
   "geometry": {"coordinates":[[136.804993,34.858398],[-122.370943,37.61799]],"type":"MultiPoint"}

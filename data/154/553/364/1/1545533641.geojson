@@ -2,6 +2,10 @@
   "id": 1545533641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-01",
+    "date:cessation_upper": "2008-10-31",
+    "date:inception_lower": "2008-10-10",
+    "date:inception_upper": "2008-10-10",
     "edtf:cessation": "2008-10-10~",
     "edtf:inception": "2008-10-10T18:46:02",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20081010-D-SWA-464",
     "sfomuseum:flight_number": [
-      "WN464", 
+      "WN464",
       "SWA464"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102087579, 
-      85922583, 
-      102191575, 
-      1545533641, 
-      85688637, 
-      102527513, 
+      1159396337,
+      102087579,
+      85922583,
+      102191575,
+      85688637,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545533641,
-    "wof:lastmodified": 1582655909,
+    "wof:lastmodified": 1717010394,
     "wof:name": "SWA464 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

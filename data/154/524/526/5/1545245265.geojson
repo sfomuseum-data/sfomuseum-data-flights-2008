@@ -2,6 +2,10 @@
   "id": 1545245265,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-03-15",
+    "date:cessation_upper": "2008-03-15",
+    "date:inception_lower": "2008-03-01",
+    "date:inception_upper": "2008-03-31",
     "edtf:cessation": "2008-03-15T10:43:32",
     "edtf:inception": "2008-03-15~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20080315-A-SWA-1569",
     "sfomuseum:flight_number": [
-      "WN1569", 
+      "WN1569",
       "SWA1569"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545245265, 
-      102527513, 
-      102191575, 
-      1159396337, 
-      85688637, 
-      85633793, 
-      102087579, 
+      102527513,
+      102191575,
+      1159396337,
+      85688637,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545245265,
-    "wof:lastmodified": 1582652960,
+    "wof:lastmodified": 1717010370,
     "wof:name": "SWA1569 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

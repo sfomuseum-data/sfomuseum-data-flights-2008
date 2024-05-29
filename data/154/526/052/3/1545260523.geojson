@@ -2,6 +2,10 @@
   "id": 1545260523,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-03-29",
+    "date:cessation_upper": "2008-03-29",
+    "date:inception_lower": "2008-03-01",
+    "date:inception_upper": "2008-03-31",
     "edtf:cessation": "2008-03-29T17:16:34",
     "edtf:inception": "2008-03-29~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20080329-A-SWA-2676",
     "sfomuseum:flight_number": [
-      "WN2676", 
+      "WN2676",
       "SWA2676"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102191575, 
-      102087579, 
-      1545260523, 
-      85922583, 
-      85688637, 
-      102527513, 
+      1159396337,
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545260523,
-    "wof:lastmodified": 1582653116,
+    "wof:lastmodified": 1717010366,
     "wof:name": "SWA2676 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

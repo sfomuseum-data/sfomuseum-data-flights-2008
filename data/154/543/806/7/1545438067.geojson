@@ -2,6 +2,10 @@
   "id": 1545438067,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-01",
+    "date:cessation_upper": "2008-08-31",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-01",
     "edtf:cessation": "2008-08-01~",
     "edtf:inception": "2008-08-01T18:40:18",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080801-D-SWA-634",
     "sfomuseum:flight_number": [
-      "WN634", 
+      "WN634",
       "SWA634"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102191575, 
-      1545438067, 
-      85922583, 
-      85633793, 
-      85688637, 
-      102527513, 
+      1159396337,
+      102191575,
+      85922583,
+      85633793,
+      85688637,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545438067,
-    "wof:lastmodified": 1582654902,
+    "wof:lastmodified": 1717010388,
     "wof:name": "SWA634 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

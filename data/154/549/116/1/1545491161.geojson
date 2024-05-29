@@ -2,6 +2,10 @@
   "id": 1545491161,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-09-07",
+    "date:cessation_upper": "2008-09-07",
+    "date:inception_lower": "2008-09-01",
+    "date:inception_upper": "2008-09-30",
     "edtf:cessation": "2008-09-07T14:31:55",
     "edtf:inception": "2008-09-07~",
     "flysfo:airline": "NW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531041,
     "sfomuseum:flight_id": "20080907-A-NWA-9832",
     "sfomuseum:flight_number": [
-      "NW9832", 
+      "NW9832",
       "NWA9832"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85633793, 
-      102527513, 
-      102191575, 
-      1545491161, 
-      85688637, 
+      102087579,
+      85922583,
+      85633793,
+      102527513,
+      102191575,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545491161,
-    "wof:lastmodified": 1582655469,
+    "wof:lastmodified": 1717010389,
     "wof:name": "NWA9832 (OAK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.212464, 
+    -122.370943,
+    37.61799,
+    -122.212464,
     37.72131
   ],
   "geometry": {"coordinates":[[-122.212464,37.72131],[-122.370943,37.61799]],"type":"MultiPoint"}

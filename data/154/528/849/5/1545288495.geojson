@@ -2,6 +2,10 @@
   "id": 1545288495,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-04-01",
+    "date:cessation_upper": "2008-04-30",
+    "date:inception_lower": "2008-04-19",
+    "date:inception_upper": "2008-04-19",
     "edtf:cessation": "2008-04-19~",
     "edtf:inception": "2008-04-19T13:21:13",
     "flysfo:airline": "YX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080419-D-MEP-921",
     "sfomuseum:flight_number": [
-      "YX921", 
+      "YX921",
       "MEP921"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      102527513, 
-      1545288495, 
+      85633793,
+      102087579,
+      85922583,
+      1159396337,
+      102191575,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545288495,
-    "wof:lastmodified": 1582653399,
+    "wof:lastmodified": 1717010378,
     "wof:name": "MEP921 (SFO-MCI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -94.716176, 
+    -122.370943,
+    37.61799,
+    -94.716176,
     39.304107
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-94.716176,39.304107]],"type":"MultiPoint"}

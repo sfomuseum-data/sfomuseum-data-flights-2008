@@ -2,6 +2,10 @@
   "id": 1545233363,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-03-02",
+    "date:cessation_upper": "2008-03-02",
+    "date:inception_lower": "2008-03-01",
+    "date:inception_upper": "2008-03-31",
     "edtf:cessation": "2008-03-02T05:26:23",
     "edtf:inception": "2008-03-02~",
     "flysfo:airline": "KZ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541685,
     "sfomuseum:flight_id": "20080302-A-NCA-122",
     "sfomuseum:flight_number": [
-      "KZ122", 
+      "KZ122",
       "NCA122"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      1159396337, 
-      1545233363, 
-      85922583, 
-      85633793, 
+      85688637,
+      102527513,
+      102191575,
+      1159396337,
+      85922583,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545233363,
-    "wof:lastmodified": 1582652849,
+    "wof:lastmodified": 1717010368,
     "wof:name": "NCA122 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}

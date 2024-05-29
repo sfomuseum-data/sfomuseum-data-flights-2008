@@ -2,6 +2,10 @@
   "id": 1545265633,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-04-02",
+    "date:cessation_upper": "2008-04-02",
+    "date:inception_lower": "2008-04-01",
+    "date:inception_upper": "2008-04-30",
     "edtf:cessation": "2008-04-02T19:30:36",
     "edtf:inception": "2008-04-02~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20080402-A-VRD-1832",
     "sfomuseum:flight_number": [
-      "VX1832", 
+      "VX1832",
       "VRD1832"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545265633, 
-      85688637, 
-      85633793, 
-      102087579, 
-      102191575, 
-      1159396337, 
-      102527513, 
+      85688637,
+      85633793,
+      102087579,
+      102191575,
+      1159396337,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545265633,
-    "wof:lastmodified": 1582653168,
+    "wof:lastmodified": 1717010370,
     "wof:name": "VRD1832 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

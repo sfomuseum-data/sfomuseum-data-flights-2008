@@ -2,6 +2,10 @@
   "id": 1545479213,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-29",
+    "date:cessation_upper": "2008-08-29",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-29T12:17:28",
     "edtf:inception": "2008-08-29~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20080829-A-AAL-471",
     "sfomuseum:flight_number": [
-      "AA471", 
+      "AA471",
       "AAL471"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1545479213, 
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545479213,
-    "wof:lastmodified": 1582655349,
+    "wof:lastmodified": 1717010395,
     "wof:name": "AAL471 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

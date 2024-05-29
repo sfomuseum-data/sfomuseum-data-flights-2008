@@ -2,6 +2,10 @@
   "id": 1545508787,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-09-21",
+    "date:cessation_upper": "2008-09-21",
+    "date:inception_lower": "2008-09-01",
+    "date:inception_upper": "2008-09-30",
     "edtf:cessation": "2008-09-21T14:31:07",
     "edtf:inception": "2008-09-21~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20080921-A-COA-1702",
     "sfomuseum:flight_number": [
-      "CO1702", 
+      "CO1702",
       "COA1702"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545508787, 
-      85922583, 
-      85633793, 
-      102527513, 
-      102087579, 
-      85688637, 
-      1159396337, 
+      85922583,
+      85633793,
+      102527513,
+      102087579,
+      85688637,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545508787,
-    "wof:lastmodified": 1582655641,
+    "wof:lastmodified": 1717010398,
     "wof:name": "COA1702 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

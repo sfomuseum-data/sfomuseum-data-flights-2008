@@ -2,6 +2,10 @@
   "id": 1545555461,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-27",
+    "date:cessation_upper": "2008-10-27",
+    "date:inception_lower": "2008-10-01",
+    "date:inception_upper": "2008-10-31",
     "edtf:cessation": "2008-10-27T14:36:14",
     "edtf:inception": "2008-10-27~",
     "flysfo:airline": "AF",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102544459,
     "sfomuseum:flight_id": "20081027-A-AFR-084",
     "sfomuseum:flight_number": [
-      "AF084", 
+      "AF084",
       "AFR084"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      102527513, 
-      1545555461, 
-      85922583, 
-      85688637, 
-      102191575, 
+      1159396337,
+      85633793,
+      102527513,
+      85922583,
+      85688637,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545555461,
-    "wof:lastmodified": 1582656140,
+    "wof:lastmodified": 1717010397,
     "wof:name": "AFR084 (CDG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    2.542809, 
+    -122.370943,
+    37.61799,
+    2.542809,
     49.007854
   ],
   "geometry": {"coordinates":[[2.542809,49.007854],[-122.370943,37.61799]],"type":"MultiPoint"}

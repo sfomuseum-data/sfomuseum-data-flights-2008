@@ -2,6 +2,10 @@
   "id": 1545466289,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-20",
+    "date:cessation_upper": "2008-08-20",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-20T13:01:20",
     "edtf:inception": "2008-08-20~",
     "flysfo:airline": "4T",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102553957,
     "sfomuseum:flight_id": "20080820-A-BHP-5064",
     "sfomuseum:flight_number": [
-      "4T5064", 
+      "4T5064",
       "BHP5064"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1545466289, 
-      1159396337, 
-      85922583, 
-      102087579, 
-      85688637, 
-      102191575, 
+      102527513,
+      1159396337,
+      85922583,
+      102087579,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545466289,
-    "wof:lastmodified": 1582655212,
+    "wof:lastmodified": 1717010387,
     "wof:name": "BHP5064 (LSZH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    8.559692, 
+    -122.370943,
+    37.61799,
+    8.559692,
     47.455793
   ],
   "geometry": {"coordinates":[[8.559692,47.455793],[-122.370943,37.61799]],"type":"MultiPoint"}

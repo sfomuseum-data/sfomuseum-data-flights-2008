@@ -2,6 +2,10 @@
   "id": 1545203117,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-02-01",
+    "date:cessation_upper": "2008-02-29",
+    "date:inception_lower": "2008-02-04",
+    "date:inception_upper": "2008-02-04",
     "edtf:cessation": "2008-02-04~",
     "edtf:inception": "2008-02-04T11:38:07",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080204-D-UAL-136",
     "sfomuseum:flight_number": [
-      "UA136", 
+      "UA136",
       "UAL136"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102527513, 
-      1545203117
+      1159396337,
+      85688637,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582652566,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545203117,
-    "wof:lastmodified": 1582652566,
+    "wof:lastmodified": 1717010367,
     "wof:name": "UAL136 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

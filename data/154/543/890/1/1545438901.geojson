@@ -2,6 +2,10 @@
   "id": 1545438901,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-02",
+    "date:cessation_upper": "2008-08-02",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-02T10:42:48",
     "edtf:inception": "2008-08-02~",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20080802-A-USA-949",
     "sfomuseum:flight_number": [
-      "US949", 
+      "US949",
       "USA949"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      85922583, 
-      1159396337, 
-      102087579, 
-      102527513, 
-      1545438901, 
+      85688637,
+      102191575,
+      85922583,
+      1159396337,
+      102087579,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545438901,
-    "wof:lastmodified": 1582654911,
+    "wof:lastmodified": 1717010389,
     "wof:name": "USA949 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1544993329,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-09-07",
+    "date:cessation_upper": "2008-09-07",
+    "date:inception_lower": "2008-09-01",
+    "date:inception_upper": "2008-09-30",
     "edtf:cessation": "2008-09-07T13:36:56",
     "edtf:inception": "2008-09-07~",
     "flysfo:airline": "F9",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20080907-A-FFT-657",
     "sfomuseum:flight_number": [
-      "F9657", 
+      "F9657",
       "FFT657"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      102087579, 
-      1159396337, 
-      102191575, 
-      85922583, 
-      102527513, 
-      1544993329
+      85633793,
+      85688637,
+      102087579,
+      1159396337,
+      102191575,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582655468,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544993329,
-    "wof:lastmodified": 1582655468,
+    "wof:lastmodified": 1717010360,
     "wof:name": "FFT657 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

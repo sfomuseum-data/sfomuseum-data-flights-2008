@@ -2,6 +2,10 @@
   "id": 1545472807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-25",
+    "date:cessation_upper": "2008-08-25",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-25T00:36:40",
     "edtf:inception": "2008-08-25~",
     "flysfo:airline": "KE",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20080825-A-KAL-8213",
     "sfomuseum:flight_number": [
-      "KE8213", 
+      "KE8213",
       "KAL8213"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102527513, 
-      85633793, 
-      1159396337, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1545472807
+      102191575,
+      102527513,
+      85633793,
+      1159396337,
+      102087579,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582655282,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545472807,
-    "wof:lastmodified": 1582655282,
+    "wof:lastmodified": 1717010388,
     "wof:name": "KAL8213 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

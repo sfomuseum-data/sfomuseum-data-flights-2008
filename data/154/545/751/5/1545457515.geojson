@@ -2,6 +2,10 @@
   "id": 1545457515,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-14",
+    "date:cessation_upper": "2008-08-14",
+    "date:inception_lower": "2008-08-01",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-14T15:54:34",
     "edtf:inception": "2008-08-14~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20080814-A-SWA-1467",
     "sfomuseum:flight_number": [
-      "WN1467", 
+      "WN1467",
       "SWA1467"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1159396337, 
-      85688637, 
-      1545457515
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1159396337,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582655117,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545457515,
-    "wof:lastmodified": 1582655117,
+    "wof:lastmodified": 1717010388,
     "wof:name": "SWA1467 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

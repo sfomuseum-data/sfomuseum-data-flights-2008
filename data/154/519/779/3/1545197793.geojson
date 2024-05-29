@@ -2,6 +2,10 @@
   "id": 1545197793,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-01-30",
+    "date:cessation_upper": "2008-01-30",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-01-31",
     "edtf:cessation": "2008-01-30T22:09:20",
     "edtf:inception": "2008-01-30~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20080130-A-AAL-1519",
     "sfomuseum:flight_number": [
-      "AA1519", 
+      "AA1519",
       "AAL1519"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      1159396337, 
-      102527513, 
-      85922583, 
-      102191575, 
-      85633793, 
-      1545197793
+      85688637,
+      102087579,
+      1159396337,
+      102527513,
+      85922583,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582652515,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545197793,
-    "wof:lastmodified": 1582652515,
+    "wof:lastmodified": 1717010370,
     "wof:name": "AAL1519 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

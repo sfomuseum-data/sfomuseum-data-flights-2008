@@ -2,6 +2,10 @@
   "id": 1545481897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-08-01",
+    "date:cessation_upper": "2008-08-31",
+    "date:inception_lower": "2008-08-31",
+    "date:inception_upper": "2008-08-31",
     "edtf:cessation": "2008-08-31~",
     "edtf:inception": "2008-08-31T12:36:43",
     "flysfo:airline": "NW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080831-D-NWA-272",
     "sfomuseum:flight_number": [
-      "NW272", 
+      "NW272",
       "NWA272"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      1545481897, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85633793, 
-      85922583, 
+      1159396337,
+      102527513,
+      102191575,
+      102087579,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545481897,
-    "wof:lastmodified": 1582655375,
+    "wof:lastmodified": 1717010390,
     "wof:name": "NWA272 (SFO-MEM)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.04889, 
-    -89.981998, 
+    -122.370943,
+    35.04889,
+    -89.981998,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-89.981998,35.04889]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1544980685,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-06-01",
+    "date:cessation_upper": "2008-06-30",
+    "date:inception_lower": "2008-06-14",
+    "date:inception_upper": "2008-06-14",
     "edtf:cessation": "2008-06-14~",
     "edtf:inception": "2008-06-14T04:31:12",
     "flysfo:airline": "KE",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080614-D-KAL-8216",
     "sfomuseum:flight_number": [
-      "KE8216", 
+      "KE8216",
       "KAL8216"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1544980685, 
-      85633793, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85922583, 
+      85688637,
+      85633793,
+      102087579,
+      102527513,
+      102191575,
+      85922583,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544980685,
-    "wof:lastmodified": 1582654161,
+    "wof:lastmodified": 1717010358,
     "wof:name": "KAL8216 (SFO-RKSI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.453966, 
-    126.661632, 
+    -122.370943,
+    37.453966,
+    126.661632,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[126.661632,37.453966]],"type":"MultiPoint"}

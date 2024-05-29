@@ -2,6 +2,10 @@
   "id": 1544975897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-05-01",
+    "date:cessation_upper": "2008-05-31",
+    "date:inception_lower": "2008-05-11",
+    "date:inception_upper": "2008-05-11",
     "edtf:cessation": "2008-05-11~",
     "edtf:inception": "2008-05-11T10:36:03",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080511-D-SWA-2212",
     "sfomuseum:flight_number": [
-      "WN2212", 
+      "WN2212",
       "SWA2212"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1544975897, 
-      102527513, 
-      85633793, 
+      85922583,
+      85688637,
+      102191575,
+      102087579,
+      102527513,
+      85633793,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544975897,
-    "wof:lastmodified": 1582653686,
+    "wof:lastmodified": 1717010362,
     "wof:name": "SWA2212 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545494945,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-09-10",
+    "date:cessation_upper": "2008-09-10",
+    "date:inception_lower": "2008-09-01",
+    "date:inception_upper": "2008-09-30",
     "edtf:cessation": "2008-09-10T14:02:45",
     "edtf:inception": "2008-09-10~",
     "flysfo:airline": "US",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20080910-A-USA-468P",
     "sfomuseum:flight_number": [
-      "US468P", 
+      "US468P",
       "USA468P"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159396337, 
-      85922583, 
-      85633793, 
-      102191575, 
-      85688637, 
-      102527513, 
-      1545494945
+      102087579,
+      1159396337,
+      85922583,
+      85633793,
+      102191575,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582655507,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545494945,
-    "wof:lastmodified": 1582655507,
+    "wof:lastmodified": 1717010393,
     "wof:name": "USA468P (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

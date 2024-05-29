@@ -2,6 +2,10 @@
   "id": 1545400525,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-07-07",
+    "date:cessation_upper": "2008-07-07",
+    "date:inception_lower": "2008-07-01",
+    "date:inception_upper": "2008-07-31",
     "edtf:cessation": "2008-07-07T15:35:51",
     "edtf:inception": "2008-07-07~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20080707-A-UAL-9804",
     "sfomuseum:flight_number": [
-      "UA9804", 
+      "UA9804",
       "UAL9804"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159396337, 
-      85633793, 
-      1545400525
+      102527513,
+      85922583,
+      102191575,
+      102087579,
+      85688637,
+      1159396337,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582654503,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545400525,
-    "wof:lastmodified": 1582654503,
+    "wof:lastmodified": 1717010381,
     "wof:name": "UAL9804 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545175375,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-01-10",
+    "date:cessation_upper": "2008-01-10",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-01-31",
     "edtf:cessation": "2008-01-10T18:17:34",
     "edtf:inception": "2008-01-10~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20080110-A-UAL-8115",
     "sfomuseum:flight_number": [
-      "UA8115", 
+      "UA8115",
       "UAL8115"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85633793, 
-      1545175375, 
-      85688637, 
-      85922583, 
-      1159396337, 
+      102191575,
+      102087579,
+      85633793,
+      85688637,
+      85922583,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545175375,
-    "wof:lastmodified": 1582652308,
+    "wof:lastmodified": 1717010366,
     "wof:name": "UAL8115 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

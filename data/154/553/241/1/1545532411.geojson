@@ -2,6 +2,10 @@
   "id": 1545532411,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-01",
+    "date:cessation_upper": "2008-10-31",
+    "date:inception_lower": "2008-10-09",
+    "date:inception_upper": "2008-10-09",
     "edtf:cessation": "2008-10-09~",
     "edtf:inception": "2008-10-09T20:27:36",
     "flysfo:airline": "",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20081009-D-ABX-1876",
     "sfomuseum:flight_number": [
-      "1876", 
+      "1876",
       "ABX1876"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1545532411, 
-      85922583, 
-      102191575, 
-      102087579, 
-      85688637, 
-      102527513, 
+      85633793,
+      85922583,
+      102191575,
+      102087579,
+      85688637,
+      102527513,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545532411,
-    "wof:lastmodified": 1582655896,
+    "wof:lastmodified": 1717010393,
     "wof:name": "ABX1876 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

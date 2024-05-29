@@ -2,6 +2,10 @@
   "id": 1545345983,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-05-30",
+    "date:cessation_upper": "2008-05-30",
+    "date:inception_lower": "2008-05-01",
+    "date:inception_upper": "2008-05-31",
     "edtf:cessation": "2008-05-30T23:18:53",
     "edtf:inception": "2008-05-30~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20080530-A-JBU-647",
     "sfomuseum:flight_number": [
-      "B6647", 
+      "B6647",
       "JBU647"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1545345983, 
-      102087579, 
-      85633793, 
-      1159396337, 
-      85922583, 
-      85688637, 
+      102191575,
+      102087579,
+      85633793,
+      1159396337,
+      85922583,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545345983,
-    "wof:lastmodified": 1582653968,
+    "wof:lastmodified": 1717010379,
     "wof:name": "JBU647 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}

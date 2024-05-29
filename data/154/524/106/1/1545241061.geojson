@@ -2,6 +2,10 @@
   "id": 1545241061,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-03-01",
+    "date:cessation_upper": "2008-03-31",
+    "date:inception_lower": "2008-03-10",
+    "date:inception_upper": "2008-03-10",
     "edtf:cessation": "2008-03-10~",
     "edtf:inception": "2008-03-10T22:07:55",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080310-D-USA-942",
     "sfomuseum:flight_number": [
-      "US942", 
+      "US942",
       "USA942"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545241061, 
-      85688637, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159396337, 
-      102527513, 
+      85688637,
+      85633793,
+      85922583,
+      102087579,
+      1159396337,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545241061,
-    "wof:lastmodified": 1582652921,
+    "wof:lastmodified": 1717010367,
     "wof:name": "USA942 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

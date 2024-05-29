@@ -2,6 +2,10 @@
   "id": 1545350417,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-06-01",
+    "date:cessation_upper": "2008-06-30",
+    "date:inception_lower": "2008-06-03",
+    "date:inception_upper": "2008-06-03",
     "edtf:cessation": "2008-06-03~",
     "edtf:inception": "2008-06-03T08:53:41",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080603-D-SWA-1510",
     "sfomuseum:flight_number": [
-      "WN1510", 
+      "WN1510",
       "SWA1510"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1545350417, 
-      1159396337, 
-      85688637, 
-      102527513, 
-      85922583, 
-      102087579, 
+      85633793,
+      1159396337,
+      85688637,
+      102527513,
+      85922583,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545350417,
-    "wof:lastmodified": 1582654010,
+    "wof:lastmodified": 1717010374,
     "wof:name": "SWA1510 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

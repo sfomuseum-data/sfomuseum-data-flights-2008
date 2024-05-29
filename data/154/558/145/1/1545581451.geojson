@@ -2,6 +2,10 @@
   "id": 1545581451,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-11-01",
+    "date:cessation_upper": "2008-11-30",
+    "date:inception_lower": "2008-11-17",
+    "date:inception_upper": "2008-11-17",
     "edtf:cessation": "2008-11-17~",
     "edtf:inception": "2008-11-17T10:15:00",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20081117-D-UAL-894",
     "sfomuseum:flight_number": [
-      "UA894", 
+      "UA894",
       "UAL894"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1545581451, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1159396337, 
-      85633793, 
+      85922583,
+      85688637,
+      102191575,
+      102087579,
+      1159396337,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545581451,
-    "wof:lastmodified": 1582656400,
+    "wof:lastmodified": 1717010402,
     "wof:name": "UAL894 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

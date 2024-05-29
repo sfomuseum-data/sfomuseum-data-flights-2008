@@ -2,6 +2,10 @@
   "id": 1545210921,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-02-10",
+    "date:cessation_upper": "2008-02-10",
+    "date:inception_lower": "2008-02-01",
+    "date:inception_upper": "2008-02-29",
     "edtf:cessation": "2008-02-10T18:55:58",
     "edtf:inception": "2008-02-10~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102555307,
     "sfomuseum:flight_id": "20080210-A-ASA-684",
     "sfomuseum:flight_number": [
-      "AS684", 
+      "AS684",
       "ASA684"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1545210921, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
+      102087579,
+      1159396337,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545210921,
-    "wof:lastmodified": 1582652638,
+    "wof:lastmodified": 1717010365,
     "wof:name": "ASA684 (CYVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}

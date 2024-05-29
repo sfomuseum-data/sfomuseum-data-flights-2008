@@ -2,6 +2,10 @@
   "id": 1545174597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-01-10",
+    "date:cessation_upper": "2008-01-10",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-01-31",
     "edtf:cessation": "2008-01-10T07:37:40",
     "edtf:inception": "2008-01-10~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20080110-A-SWA-2886",
     "sfomuseum:flight_number": [
-      "WN2886", 
+      "WN2886",
       "SWA2886"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1545174597, 
-      1159396337, 
-      102527513, 
-      85688637, 
-      85633793, 
-      102191575, 
+      102087579,
+      1159396337,
+      102527513,
+      85688637,
+      85633793,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545174597,
-    "wof:lastmodified": 1582652299,
+    "wof:lastmodified": 1717010365,
     "wof:name": "SWA2886 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

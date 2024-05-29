@@ -2,6 +2,10 @@
   "id": 1545544265,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-19",
+    "date:cessation_upper": "2008-10-19",
+    "date:inception_lower": "2008-10-01",
+    "date:inception_upper": "2008-10-31",
     "edtf:cessation": "2008-10-19T00:25:41",
     "edtf:inception": "2008-10-19~",
     "flysfo:airline": "FX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531979,
     "sfomuseum:flight_id": "20081019-A-FDX-94",
     "sfomuseum:flight_number": [
-      "FX94", 
+      "FX94",
       "FDX94"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      1545544265, 
-      1159396337, 
-      85688637, 
-      102527513, 
+      102191575,
+      85633793,
+      102087579,
+      1159396337,
+      85688637,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545544265,
-    "wof:lastmodified": 1582656020,
+    "wof:lastmodified": 1717010395,
     "wof:name": "FDX94 (ANC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401, 
-    37.61799, 
-    -122.370943, 
+    -149.968401,
+    37.61799,
+    -122.370943,
     61.173606
   ],
   "geometry": {"coordinates":[[-149.968401,61.173606],[-122.370943,37.61799]],"type":"MultiPoint"}

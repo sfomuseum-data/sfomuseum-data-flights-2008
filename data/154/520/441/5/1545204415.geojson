@@ -2,6 +2,10 @@
   "id": 1545204415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-02-01",
+    "date:cessation_upper": "2008-02-29",
+    "date:inception_lower": "2008-02-05",
+    "date:inception_upper": "2008-02-05",
     "edtf:cessation": "2008-02-05~",
     "edtf:inception": "2008-02-05T12:17:05",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080205-D-SWA-1471",
     "sfomuseum:flight_number": [
-      "WN1471", 
+      "WN1471",
       "SWA1471"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545204415, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1159396337, 
-      102527513, 
-      85922583, 
+      85688637,
+      85633793,
+      102087579,
+      1159396337,
+      102527513,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545204415,
-    "wof:lastmodified": 1582652577,
+    "wof:lastmodified": 1717010368,
     "wof:name": "SWA1471 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

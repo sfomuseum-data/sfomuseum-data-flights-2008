@@ -2,6 +2,10 @@
   "id": 1545339719,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-05-01",
+    "date:cessation_upper": "2008-05-31",
+    "date:inception_lower": "2008-05-26",
+    "date:inception_upper": "2008-05-26",
     "edtf:cessation": "2008-05-26~",
     "edtf:inception": "2008-05-26T15:04:19",
     "flysfo:airline": "YX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20080526-D-MEP-924",
     "sfomuseum:flight_number": [
-      "YX924", 
+      "YX924",
       "MEP924"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1545339719, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1159396337, 
+      85922583,
+      85688637,
+      102191575,
+      85633793,
+      102087579,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545339719,
-    "wof:lastmodified": 1582653906,
+    "wof:lastmodified": 1717010381,
     "wof:name": "MEP924 (SFO-MKE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.896339, 
+    -122.370943,
+    37.61799,
+    -87.896339,
     42.949572
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.896339,42.949572]],"type":"MultiPoint"}

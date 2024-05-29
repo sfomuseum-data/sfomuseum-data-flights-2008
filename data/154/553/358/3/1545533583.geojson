@@ -2,6 +2,10 @@
   "id": 1545533583,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-10",
+    "date:cessation_upper": "2008-10-10",
+    "date:inception_lower": "2008-10-01",
+    "date:inception_upper": "2008-10-31",
     "edtf:cessation": "2008-10-10T17:35:54",
     "edtf:inception": "2008-10-10~",
     "flysfo:airline": "9W",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102550331,
     "sfomuseum:flight_id": "20081010-A-JAI-210",
     "sfomuseum:flight_number": [
-      "9W210", 
+      "9W210",
       "JAI210"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      1545533583, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1159396337, 
+      102087579,
+      102191575,
+      85922583,
+      102527513,
+      85633793,
+      1159396337,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545533583,
-    "wof:lastmodified": 1582655909,
+    "wof:lastmodified": 1717010394,
     "wof:name": "JAI210 (PVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    31.145312, 
-    121.799307, 
+    -122.370943,
+    31.145312,
+    121.799307,
     37.61799
   ],
   "geometry": {"coordinates":[[121.799307,31.145312],[-122.370943,37.61799]],"type":"MultiPoint"}

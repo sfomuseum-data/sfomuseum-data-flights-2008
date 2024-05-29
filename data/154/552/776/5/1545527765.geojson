@@ -2,6 +2,10 @@
   "id": 1545527765,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-10-06",
+    "date:cessation_upper": "2008-10-06",
+    "date:inception_lower": "2008-10-01",
+    "date:inception_upper": "2008-10-31",
     "edtf:cessation": "2008-10-06T11:03:17",
     "edtf:inception": "2008-10-06~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20081006-A-SWA-108",
     "sfomuseum:flight_number": [
-      "WN108", 
+      "WN108",
       "SWA108"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      1159396337, 
-      85922583, 
-      1545527765, 
-      85688637, 
+      102527513,
+      102191575,
+      85633793,
+      1159396337,
+      85922583,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545527765,
-    "wof:lastmodified": 1582655837,
+    "wof:lastmodified": 1717010397,
     "wof:name": "SWA108 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2008",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
